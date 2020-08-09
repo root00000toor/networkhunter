@@ -4,8 +4,6 @@ networkhunter is just like netdiscover but in some cases netdiscover is to slow,
 # DONATION
 BITCOIN:- bc1qap4l74ftjuexa5gafmstvcjyjydym29796rf46
 
-GOOGLE PAY:- todikishan177-1@okhdfcbank
-
 
 # INSTALLATION GUIDE
  $ git clone https://github.com/root00000toor/networkhunter.git
