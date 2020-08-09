@@ -3,19 +3,24 @@ networkhunter is just like netdiscover but in some cases netdiscover is to slow,
 
 # DONATION
 BITCOIN:- bc1qap4l74ftjuexa5gafmstvcjyjydym29796rf46
+
 GOOGLE PAY:- todikishan177-1@okhdfcbank
 
 
 # INSTALLATION GUIDE
  $ git clone https://github.com/root00000toor/networkhunter.git
+ 
  $ cd networkhunter/
+ 
  $ python ./networkhunter.py -r (ip range) 
  
  
-# IF ITS NOT WORKING 
+# IF ITS NOT WORKING
+
  $ pip install scapy
 
-if you are running with python3 then 
+if you are running with python3 then
+
  $ pip3 install scapy
  
  happy hacking.
